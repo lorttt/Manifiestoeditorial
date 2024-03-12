@@ -86,7 +86,7 @@ container {
   background:rgb(0, 0, 0);
   width: 250px;
   height: 300px;
-  position:relative; left:550px; top:800px;
+  position:relative; left:800px; top:800px;
   justify-content: center;
   align-items: center;
   display: flex;
@@ -96,7 +96,7 @@ container {
   background:rgb(0, 0, 0);
   width: 200px;
   height: 400px;
-  position:relative; left:150px ; top: 750px;
+  position:relative; left:300px ; top: 800px;
   justify-content: center;
   align-items: center;
   display: flex;
@@ -106,7 +106,7 @@ container {
   background:rgb(0, 0, 0);
   width: 250px;
   height: 100px;
-  position:relative; left:240px; top:570px;
+  position:relative; left:730px; top:650px;
   justify-content: center;
   align-items: center;
   display: flex;
@@ -116,7 +116,7 @@ container {
   background:rgb(0, 0, 0);
   width: 550px;
   height: 100px;
-  position:relative; left:0px; top:700px;
+  position:relative; left:50px; top:800px;
   justify-content: center;
   align-items: center;
   display: flex;
@@ -126,7 +126,7 @@ container {
   background:rgb(0, 0, 0);
   width: 600px;
   height: 100px;
-  position:absolute; left:500px; top:800px;
+  position:absolute; left:650px; top:800px;
   justify-content: center;
   align-items: center;
   display: flex;
@@ -209,7 +209,7 @@ position: absolute; left: 200px; top: 450px;
   width: 60px;
   height: 30px;
   background-color: black;
-  position: absolute; left: 600px; top: 1280px;}
+  position: absolute; left: 700px; top: 1350px;}
 
 .cuadradito5{
     width: 40px;
@@ -221,6 +221,6 @@ position: absolute; left: 200px; top: 450px;
       width: 80px;
       height: 50px;
       background-color: black;
-      position: absolute; left: 150px; top: 1700px;
+      position: absolute; left: 200px; top: 1850px;
       }
 
